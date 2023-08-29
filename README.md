@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Yadav</h1>
 <h3 align="center">A 19y/o self-learned ethical hacker, mainly interested in bug hunting, malware analysis, and digital forensics. Currently expertise in SEO, OSINT, ethical hacking, WordPress, Shopify, front-end web.</h3>
 
-- 🔭 I’m currently building a company to revolutionize the Open-Source Intelligence Industry, (@OSINTAmbition)[https://github.com/osintambition]. 
+- 🔭 I’m currently building a company to revolutionize the Open-Source Intelligence Industry, [@OSINTAmbition](https://github.com/osintambition). 
 
 - 🌱 I’m currently learning **Python, Penetration Testing, OSINT**
 
