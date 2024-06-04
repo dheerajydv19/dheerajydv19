@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Yadav</h1>
-<h3 align="center">A 19y/o self-learned ethical hacker, mainly interested in bug hunting, malware analysis, and digital forensics. Currently expertise in SEO, OSINT, ethical hacking, WordPress, Shopify, front-end web.</h3>
+<h3 align="center">Hacker and OSINT Expert</h3>
 
 - 🔭 I’m currently building a company to revolutionize the Open-Source Intelligence Industry, [@OSINTAmbition](https://github.com/osintambition). 
 
-- 🌱 I’m currently learning **Python, Penetration Testing, OSINT**
+- 🌱 I’m currently learning **Python, Scripting and Penetration Testing.**
 
-- 👯 I’m looking to collaborate on projects for [Bot's Encyclopedia](https://github.com/InfuriousICC/Bots-Encyclopedia)
+- 👯 I’m looking to collaborate on projects related to Automation.
 
 - 👨‍💻 All of my projects are available at [https://github.com/dheerajydv19](https://github.com/dheerajydv19)
 
 - 📝 I regularly write articles on [https://hacklido.com/u/dheerajydv19](https://hacklido.com/u/dheerajydv19)
 
-- 💬 Ask me about **Ethical hacking, SEO, OSINT, WordPress, Shopify.**
+- 💬 Ask me about **Ethical hacking, SEO, OSINT.**
 
-- 📫 How to reach me **dheerajyadavmandlana@gmail.com**
+- 📫 How to reach me **dheerajydv19@proton.me**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Wdu-zF-mLhB-wPlU359nAREVwHV9gKd3/view?usp=share_link](https://drive.google.com/file/d/1Wdu-zF-mLhB-wPlU359nAREVwHV9gKd3/view?usp=share_link)
 
