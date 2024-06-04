@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dheerajydv19@proton.me**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Wdu-zF-mLhB-wPlU359nAREVwHV9gKd3/view?usp=share_link](https://drive.google.com/file/d/1Wdu-zF-mLhB-wPlU359nAREVwHV9gKd3/view?usp=share_link)
+- 📄 Know about my experiences at dheerajydv19.me
 
 - ⚡ Fun fact **People think i am noob.**
 
