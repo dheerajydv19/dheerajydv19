@@ -11,6 +11,8 @@
 
 - 📝 I regularly write articles on [https://hacklido.com/u/dheerajydv19](https://hacklido.com/u/dheerajydv19)
 
+- I write a weekly community newsletter for OSINTers on [https://osintupdates.com/](https://osintupdates.com/)
+
 - 💬 Ask me about **Ethical hacking, SEO, OSINT.**
 
 - 📫 How to reach me **dheerajydv19@proton.me**
