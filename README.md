@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Yadav</h1>
 <h3 align="center">Hacker and OSINT Expert</h3>
 
-- 🔭 I’m currently building a company to revolutionize the Open-Source Intelligence Industry, [@OSINTAmbition](https://github.com/osintambition). 
+- 🔭 I’m currently building a company to revolutionize the Open-Source Intelligence Industry, [@OSINTVerse](https://github.com/osintverse). 
 
 - 🌱 I’m currently learning **Python, Scripting and Penetration Testing.**
 
